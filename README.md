@@ -13,6 +13,7 @@
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=flat-square&logo=javascript&logoColor=%23F7DF1E"/>
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="Php" src="https://img.shields.io/badge/-Php-43853d?style=flat-square&logo=Php&logoColor=white" />
   <img alt="C#" src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=flat-square&logo=c-sharp&logoColor=white"/>
   
 </p>
