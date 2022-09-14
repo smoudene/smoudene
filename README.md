@@ -1,6 +1,5 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Welcome to my page.</h1>
 <h3>I'm Salah eddine, Fullstack developer.</h3>
-- I’m currently studying at 1337 School<br>
 - I’m currently learning everything (C, NODE JS , REACT ....)<br>
 - ⚡ Fun fact: I play Football and  Tennis...<br>
 <h3>Things I code with</h3>
@@ -22,4 +21,3 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smoudene&langs_count=8&show_icons=true&theme=vue-light)
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=smoudene&show_icons=true&theme=vue-light)
 
-[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&email=hide&login=smoudene)](https://github.com/smoudene)
